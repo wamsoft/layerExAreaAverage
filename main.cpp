@@ -1,4 +1,3 @@
-#include <windows.h>
 #include "ncbind.hpp"
 
 typedef tjs_int	fixdot;
